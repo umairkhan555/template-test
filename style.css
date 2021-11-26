@@ -1,0 +1,9 @@
+/*It prevents padding from adding extra width or height to the page*/
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+}
